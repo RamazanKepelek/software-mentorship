@@ -9,7 +9,7 @@ This repository contains the projects, exercises and notes created during my sof
 - 📁 CSS
 - 📁 JavaScript
 - 📁 Projects
-- 
+  
 ## Goal
 
 To improve my software development skills through consistent learning, real-world projects and weekly mentorship.
